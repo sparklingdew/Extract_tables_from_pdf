@@ -2,7 +2,7 @@
 import utils
 
 file='Price table.pdf' # https://www.docdroid.net/58eQDoN/price-table-pdf
-col_estimation=10
+col_estimation=12
 
 # Extract tables from pdf and turn then it into a DataFrame
 # Text outside tables is also present in the DataFrame. It generally appears in the first column 
